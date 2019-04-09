@@ -9,6 +9,9 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+
+//Runner technique 
+
 var middleNode = function(head) {
     
     var fastnode = head;
