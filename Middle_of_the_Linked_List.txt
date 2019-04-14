@@ -1,5 +1,6 @@
 
 Source of description: Leetcode
+Submission Detail: 15 / 15 test cases passed.
 Program :Middle of the Linked List
 
 Given a non-empty, singly linked list with head node head, return a middle node of linked list.
