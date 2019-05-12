@@ -1,5 +1,7 @@
 Source of description: Leetcode.
 
+Visit: https://leetcode.com/problems/middle-of-the-linked-list/discuss/290798/Simple-JS-Javascript-solution
+
 Submission Detail: 15 / 15 test cases passed.
 
 Program :Middle of the Linked List
